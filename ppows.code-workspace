@@ -6,5 +6,12 @@
 		{
 			"path": "ppotf"
 		}
-	]
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Python37\\python.exe"
+	},
+	"launch": {
+		"configurations": [
+		]
+	}
 }
