@@ -1,0 +1,6 @@
+[submodule "ppotf"]
+	path = ppotf
+	url = https://github.com/samuel-caldas/ppotf.git
+[submodule "PPO_reinforcement_learning"]
+	path = PPO_reinforcement_learning
+	url = https://github.com/samuel-caldas/PPO_reinforcement_learning.git
