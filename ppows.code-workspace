@@ -1,10 +1,20 @@
 {
 	"folders": [
 		{
+			"Name": "PPO reinforcement learning",
 			"path": "PPO_reinforcement_learning"
 		},
 		{
 			"path": "ppotf"
+		},
+		{
+			"path": "CartPole-v0"
+		},
+		{
+			"path": "PPO-Keras"
+		},
+		{
+			"path": "PPO-Keras-1"
 		}
 	],
 	"settings": {
