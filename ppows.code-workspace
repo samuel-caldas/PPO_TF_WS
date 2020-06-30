@@ -1,20 +1,24 @@
 {
 	"folders": [
 		{
-			"Name": "PPO reinforcement learning",
-			"path": "PPO_reinforcement_learning"
-		},
-		{
-			"path": "ppotf"
-		},
-		{
+			"name": "CartPole-v0",
 			"path": "CartPole-v0"
 		},
 		{
+			"name": "PPO Keras",
 			"path": "PPO-Keras"
 		},
 		{
+			"name": "PPO Keras 2",
 			"path": "PPO-Keras-1"
+		},
+		{
+			"name": "PPO TensorFLow",
+			"path": "ppotf"
+		},
+		{
+			"name": "PPO Tensorflow 2",
+			"path": "PPO_reinforcement_learning"
 		}
 	],
 	"settings": {
