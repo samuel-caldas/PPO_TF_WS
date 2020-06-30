@@ -1,6 +1,20 @@
 [submodule "ppotf"]
 	path = ppotf
 	url = https://github.com/samuel-caldas/ppotf.git
+	branch = master
 [submodule "PPO_reinforcement_learning"]
 	path = PPO_reinforcement_learning
 	url = https://github.com/samuel-caldas/PPO_reinforcement_learning.git
+	branch = master
+[submodule "CartPole-v0"]
+	path = CartPole-v0
+	url = https://github.com/samuel-caldas/CartPole-v0.git
+	branch = master
+[submodule "PPO-Keras"]
+	path = PPO-Keras
+	url = https://github.com/samuel-caldas/PPO-Keras.git
+	branch = master
+[submodule "PPO-Keras-1"]
+	path = PPO-Keras-1
+	url = https://github.com/samuel-caldas/PPO-Keras-1.git
+	branch = master
